@@ -1,0 +1,45 @@
+{
+  "name": "Sepolia Joker Whitelist ",
+  "timestamp": "2023-05-02T09:41:56.220Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "name": "ZKdex Token",
+      "address": "0x15A98831dbB29f32c52E5cefE5eaa148691b746A",
+      "symbol": "ZKT",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11289.png"
+    },
+    {
+      "chainId": 1,
+      "name": "DAI",
+      "address": "0x7AF17A48a6336F7dc1beF9D485139f7B6f4FB5C8",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11848.png"
+    },
+    {
+      "chainId": 1,
+      "name": "USDC",
+      "address": "0x6f14C02Fc1F78322cFd7d707aB90f18baD3B54f5",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11208.png"
+    },
+    {
+      "chainId": 1,
+      "name": "USDT",
+      "address": "0x6175a8471C2122f778445e7E07A164250a19E661",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png"
+    }
+  ],
+  "logoURI": "ipfs://QmTvWJ4kmzq9koK74WJQ594ov8Es1HHurHZmMmhU8VY68y"
+}
