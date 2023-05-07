@@ -9,36 +9,28 @@
 
   "tokens": [
     {
-      "chainId": 11155111,
+      "chainId": 280,
       "name": "ZKdex Token",
-      "address": "0x15A98831dbB29f32c52E5cefE5eaa148691b746A",
+      "address": "0x0cDcf8e74f607dEff7F4F2DE8Fd8450733f7Cef7",
       "symbol": "ZKT",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11289.png"
     },
     {
-      "chainId": 11155111,
+      "chainId": 280,
       "name": "DAI",
-      "address": "0x7AF17A48a6336F7dc1beF9D485139f7B6f4FB5C8",
+      "address": "0x3e7676937A7E96CFB7616f255b9AD9FF47363D4b",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11848.png"
     },
     {
-      "chainId": 11155111,
+      "chainId": 280,
       "name": "USDC",
-      "address": "0x6f14C02Fc1F78322cFd7d707aB90f18baD3B54f5",
+      "address": "0x0faF6df7054946141266420b43783387A78d82A9",
       "symbol": "USDC",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11208.png"
-    },
-    {
-      "chainId": 11155111,
-      "name": "USDT",
-      "address": "0x6175a8471C2122f778445e7E07A164250a19E661",
-      "symbol": "USDT",
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png"
     }
   ],
   "logoURI": "ipfs://QmTvWJ4kmzq9koK74WJQ594ov8Es1HHurHZmMmhU8VY68y"

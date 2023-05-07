@@ -1,0 +1,30 @@
+{
+  "name": "Sepolia Joker Whitelist ",
+  "timestamp": "2023-05-02T09:41:56.220Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+
+  "tokens": [
+    {
+      "chainId": 534353,
+      "name": "ZKdex Token",
+      "address": "0xe0c475b2b9db03e97ffcfd0e0dc2fe72c4ade958",
+      "symbol": "ZKT",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11289.png"
+    },
+
+    {
+      "chainId": 534353,
+      "name": "USDC",
+      "address": "0xa0d71b9877f44c744546d649147e3f1e70a93760",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11208.png"
+    }
+  ],
+  "logoURI": "ipfs://QmTvWJ4kmzq9koK74WJQ594ov8Es1HHurHZmMmhU8VY68y"
+}
