@@ -1,0 +1,37 @@
+{
+  "name": "Merlin Testnet Whitelist ",
+  "timestamp": "2024-03-21T01:17:49.146Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+
+  "tokens": [
+    {
+      "chainId": 686868,
+      "name": "AsyncBox",
+      "address": "0x9C708EF11C247094848Fa508e245D6a835C78F95",
+      "symbol": "AsyncBox",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Async-Finance/async-box/main/1.gif"
+    },
+    {
+      "chainId": 686868,
+      "name": "WBTC",
+      "address": "0x319613a9b3839a47793990f86A39FdCeB6302d98",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+    },
+    {
+      "chainId": 686868,
+      "name": "USDT",
+      "address": "0x876508837C162aCedcc5dd7721015E83cbb4e339",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    }
+  ],
+  "logoURI": "ipfs://QmTvWJ4kmzq9koK74WJQ594ov8Es1HHurHZmMmhU8VY68y"
+}
