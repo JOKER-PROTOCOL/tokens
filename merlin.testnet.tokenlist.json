@@ -22,7 +22,8 @@
       "address": "0x319613a9b3839a47793990f86A39FdCeB6302d98",
       "symbol": "WBTC",
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+      "isWrapToken": true
     },
     {
       "chainId": 686868,
