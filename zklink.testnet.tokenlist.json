@@ -19,7 +19,7 @@
     {
       "chainId": 810182,
       "name": "WETH",
-      "address": "0x74A8210Fe3F2271B8b2660C43Bab2672085b3e55",
+      "address": "0xCcf32Ff9319BF332e48F4b49957307b953A06da9",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"
