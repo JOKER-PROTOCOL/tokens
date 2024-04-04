@@ -16,6 +16,14 @@
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
       "isWrapToken": true
+    },
+    {
+      "chainId": 810180,
+      "name": "Aurora",
+      "address": "0xd4C8500Aeb4fb24f4aBEfED96AA92AbA5FFe4F3c",
+      "symbol": "Aurora",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Async-Finance/async-box/main/2.gif"
     }
   ],
   "logoURI": "ipfs://QmTvWJ4kmzq9koK74WJQ594ov8Es1HHurHZmMmhU8VY68y"
