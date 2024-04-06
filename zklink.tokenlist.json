@@ -27,7 +27,7 @@
     },
     {
       "chainId": 810180,
-      "name": "USDC.Arbitrum",
+      "name": "USD Coin",
       "address": "0x7581469cb53E786F39ff26E8aF6Fd750213dAcEd",
       "symbol": "USDC",
       "decimals": 6,
