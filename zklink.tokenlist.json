@@ -24,6 +24,14 @@
       "symbol": "Aurora",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Async-Finance/async-box/main/2.gif"
+    },
+    {
+      "chainId": 810180,
+      "name": "USDC.Arbitrum",
+      "address": "0x7581469cb53E786F39ff26E8aF6Fd750213dAcEd",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
     }
   ],
   "logoURI": "ipfs://QmTvWJ4kmzq9koK74WJQ594ov8Es1HHurHZmMmhU8VY68y"
