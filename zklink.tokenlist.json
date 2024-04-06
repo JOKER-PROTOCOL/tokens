@@ -30,8 +30,24 @@
       "name": "USDC.Arbitrum",
       "address": "0x7581469cb53E786F39ff26E8aF6Fd750213dAcEd",
       "symbol": "USDC",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    },
+    {
+      "chainId": 810180,
+      "name": "Tether USD",
+      "address": "0x0ace5E8e1Be0d3Df778f639d79fa8231b376b9F1",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    {
+      "chainId": 810180,
+      "name": "Wrapped BTC",
+      "address": "0xEbc45Ef3B6D7E31573DAa9BE81825624725939f9",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
     }
   ],
   "logoURI": "ipfs://QmTvWJ4kmzq9koK74WJQ594ov8Es1HHurHZmMmhU8VY68y"
