@@ -1,0 +1,246 @@
+{
+  "name": "Merlin Whitelist ",
+  "timestamp": "2024-04-08T02:53:37.845Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+
+  "tokens": [
+    {
+      "chainId": 4200,
+      "name": "WBTC",
+      "address": "0xF6D226f9Dc15d9bB51182815b320D3fBE324e1bA",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/btc.png",
+      "isWrapToken": true
+    },
+    {
+      "chainId": 4200,
+      "name": "Merlin's Seal BTC",
+      "address": "0xb880fd278198bd590252621d4cd071b1842e9bcd",
+      "symbol": "M-BTC",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg"
+    },
+    {
+      "chainId": 4200,
+      "name": "HUHU CAT",
+      "address": "0x7a677e59dC2C8a42d6aF3a62748c5595034A008b",
+      "symbol": "HUHU",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/huhu.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Bridged BRC20 VOYA",
+      "address": "0x480e158395cc5b41e5584347c495584ca2caf78d",
+      "symbol": "VOYA",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/voya.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Merlin's Seal USDC",
+      "address": "0x6b4ecada640f1b30dbdb68f77821a03a5f282ebe",
+      "symbol": "M-USDC",
+      "decimals": 6,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/musdc.svg"
+    },
+    {
+      "chainId": 4200,
+      "name": "Merlin's Seal USDT",
+      "address": "0x967aec3276b63c5e2262da9641db9dbebb07dc0d",
+      "symbol": "M-USDT",
+      "decimals": 6,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/musdt.svg"
+    },
+    {
+      "chainId": 4200,
+      "name": "Bridged BRC20 sats",
+      "address": "0x4DCb91Cc19AaDFE5a6672781EB09abAd00C19E4c",
+      "symbol": "M-sats",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/msats.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Bridged BRC20 rats",
+      "address": "0x69181A1f082ea83A152621e4FA527C936abFa501",
+      "symbol": "M-rats",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mrats.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Bridged BRC20 ordi",
+      "address": "0x0726523Eba12EdaD467c55a962842Ef358865559",
+      "symbol": "M-ordi",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mordi.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Bridged BRC20 RUFI",
+      "address": "0x9bd60d6FC99843207B8149f9190438C1F81BDdcD",
+      "symbol": "RUFI",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rufi.svg"
+    },
+    {
+      "chainId": 4200,
+      "name": "Bridged BRC20 MNER",
+      "address": "0x27622B326Ff3ffa7dc10AE291800c3073b55AA39",
+      "symbol": "MNER",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mner.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Jeff Token",
+      "address": "0xd79f579d7e34782465863a6f837b2692bda7b989",
+      "symbol": "JEFF",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/jeff.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Influpia Token",
+      "address": "0x07884346a65F95276C2b0E56b17165b191ab2C49",
+      "symbol": "ING",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ing.svg"
+    },
+    {
+      "chainId": 4200,
+      "name": "Elixir Token",
+      "address": "0xa49fc6e5bbb77622b96bf242fee4028b8b61ffa0",
+      "symbol": "ELXR",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/elxr.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "DRAGON Token",
+      "address": "0x1dd67628db8661186de74a3adc6e3f44def5709e",
+      "symbol": "DRAGON",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/dragonmerlin.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "King Arthur Token",
+      "address": "0xdbbc61004663f0116dd5ae5751436c722b7168e6",
+      "symbol": "ART",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/art.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "MRC404 Token",
+      "address": "0x6df1b05ac85007bcd4f25aca7ab505415b3d51dc",
+      "symbol": "MRC404",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mrc404.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "RAT404 Token",
+      "address": "0xbf108e20fd47995b2b1a316db76c1c145e5bdeac",
+      "symbol": "RAT404",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rat404.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "BIUU Token",
+      "address": "0x3cFD33fD6f670ebBf63434D4b09DcA6D403aEFea",
+      "symbol": "BIUU",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/biuu.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Wizard Token",
+      "address": "0x2503d56065a1369d7270dc2038c16a113699454d",
+      "symbol": "Wizard",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/wizard.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Merlin Pad Token",
+      "address": "0x5782d6FdDFE62cb1650FE42582Ef8E37EAEA03E2",
+      "symbol": "MerlinPad",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/merlinpad.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Merlin Meme Token (Meme)",
+      "address": "0x402b2e84CB09b08e18Bd47636594Afb789401ddc",
+      "symbol": "MERLIN(Meme)",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/merlinmeme.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "The Grand VOYA Sailor",
+      "address": "0xe380a2d2477799fff336a2937ea00a29a84a22c9",
+      "symbol": "Sailor",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/sailor.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "SPELL Token",
+      "address": "0xcd88e36a9ce94e4c36f08b0b8086a80639e11e7a",
+      "symbol": "SPELL",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/spell.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Merlin Ball Token",
+      "address": "0xF18781109992b12580A646ed0392a6Fc50318209",
+      "symbol": "BALL",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ball.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Merlin Box Token",
+      "address": "0x63c2e663a6cfb0f5568c84a1c8134acbe1b88bec",
+      "symbol": "MerlinBox",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/merlinbox.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Merlin Land Token",
+      "address": "0xf0db39a5e37eb2df2d2b968f3fc8e5d7a9969dea",
+      "symbol": "MerlinLand",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/merlinland.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Owl Token",
+      "address": "0x62e99191071fc1c5947cf1e21aa95708dcc51adb",
+      "symbol": "Owl",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/owl.png"
+    },
+    {
+      "chainId": 4200,
+      "name": "Drak Token",
+      "address": "0xc69a8ef7da38fb6bf035c38ea4a0a5e0a529378d",
+      "symbol": "DRAK",
+      "decimals": 18,
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/drak.png"
+    }
+  ],
+  "logoURI": "ipfs://QmTvWJ4kmzq9koK74WJQ594ov8Es1HHurHZmMmhU8VY68y"
+}
